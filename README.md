@@ -5,7 +5,7 @@ Modern, declarative argument parser for Python 3.6+.
 Powerful like click, integrated like argparse, declarative as sqlalchemy. MIT licenced. [Documented on RTD](http://declarative-parser.readthedocs.io/en/latest/). Install with:
 
 ```bash
-python3 -m pip install declarative_parser
+pip3 install declarative-parser
 ```
 
 
